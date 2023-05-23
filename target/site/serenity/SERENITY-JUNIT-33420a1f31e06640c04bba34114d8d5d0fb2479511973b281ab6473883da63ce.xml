@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="simular credito" skipped="0" tests="1" time="2.03" timestamp="2023-05-22 11:00:14"><testcase name="Ingresar a la seccion de creditos"><error type="java.lang.ExceptionInInitializerError"/><system-err>null&#13;
+cucumber.deps.com.thoughtworks.xstream.XStream.setupConverters(XStream.java:820)&#13;
+cucumber.deps.com.thoughtworks.xstream.XStream.&lt;init&gt;(XStream.java:574)&#13;
+cucumber.deps.com.thoughtworks.xstream.XStream.&lt;init&gt;(XStream.java:530)&#13;
+cucumber.runner.Runner.runPickle(Runner.java:80)&#13;
+java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)&#13;
+java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)&#13;
+java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)&#13;
+worker.org.gradle.process.internal.worker.GradleWorkerMain.run(GradleWorkerMain.java:69)&#13;
+worker.org.gradle.process.internal.worker.GradleWorkerMain.main(GradleWorkerMain.java:74)&#13;
+✽.que estoy en la pagina principal de la sucursal virtual personas de bancolombia(src/test/resources/features/find_credits_tab.feature:8)&#13;
+</system-err></testcase></testsuite>
